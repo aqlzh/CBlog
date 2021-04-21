@@ -1,0 +1,2 @@
+# CBlog
+Blog cache directory
